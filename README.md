@@ -29,7 +29,7 @@ This project is a comprehensive Power BI dashboard that analyzes ride data from 
 
 | Home Page | Overview | Time Analysis |
 |-----------|----------|----------------|
-| ![Home](screenshots/homepage.png) | ![Overview](screenshots/overview_analysis.png) | ![Time](screenshots/time_analysis.png) |
+| ![Home](screenshots/homepage.png.png) | ![Overview](screenshots/overview_analysis.png) | ![Time](screenshots/time_analysis.png) |
 
 ## 🚀 How to Use
 
